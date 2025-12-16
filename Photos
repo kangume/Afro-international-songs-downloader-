@@ -1,0 +1,6 @@
+
+- `index.html` (main page)
+- `styles.css` (styling)
+- `app.js` (song search logic)
+- `api.js` (download API integration)
+- `README.md` (project docs)
